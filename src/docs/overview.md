@@ -36,7 +36,7 @@ Networks supported by the respective go-ethereum packaged `geth` client.
 | EXP    | Expanse                               |                                                  |                                                                 |
 | ELLA   | Ellaism                               | :no_entry_sign:<sup>[1](#ellaism-footnote)</sup> |                                                                 |
 | MUSIC  | Musicoin                              | :heavy_check_mark:                               |                                                                 |
-|        | Mordor (Geth+Parity ETH PoW Testnet)  | :heavy_check_mark:                               |                                                                 |
+|        | Mordor (Geth+Besu ETH PoW Testnet)    | :heavy_check_mark:                               |                                                                 |
 |        | Morden (Geth+Parity ETH PoW Testnet)  |                                                  |                                                                 |
 |        | Ropsten (Geth+Parity ETH PoW Testnet) | :heavy_check_mark:                               | :heavy_check_mark:                                              |
 |        | Rinkeby (Geth-only ETH PoA Testnet)   | :heavy_check_mark:                               | :heavy_check_mark:                                              |
